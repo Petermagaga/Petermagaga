@@ -2,7 +2,7 @@
 
 Backend-focused Systems Developer passionate about automation, ERP systems, APIs, and building practical business solutions that solve real operational problems.
 
-Currently working on scalable backend systems, workflow automation, and ERP-style applications using Python and Django.
+Currently working on scalable AI API systems, workflow automation, and ERP-style applications using Python and React.
 
 ---
 
