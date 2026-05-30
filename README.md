@@ -1,4 +1,4 @@
-# Hi 👋 I'm Peter Magaga
+# I'm Peter Magaga
 
 Backend-focused Systems Developer passionate about automation, ERP systems, APIs, and building practical business solutions that solve real operational problems.
 
