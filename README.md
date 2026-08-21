@@ -7,10 +7,10 @@ I build business systems, backend services, APIs, web applications and automatio
 </p>
 
 <p align="center">
-  <a href="https://petermagaga.github.io/website">
+  <a href="https://frontpage-gnzt.onrender.com/blog/website">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/peter-magaga">
+  <a href="https://[www.linkedin.com/in/peter-magaga](https://www.linkedin.com/in/peter-magaga-902511353/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/petermagaga">
