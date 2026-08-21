@@ -7,7 +7,7 @@ I build business systems, backend services, APIs, web applications and automatio
 </p>
 
 <p align="center">
-  <a href="https://frontpage-gnzt.onrender.com/blog">
+  <a href="https://frontpage-gnzt.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/peter-magaga-902511353/">
